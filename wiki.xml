@@ -1,0 +1,18 @@
+<mediawiki xml:lang="en">
+  <page>
+    <title>Page title</title>
+      <revision>
+        <text>A bunch of [[text]] here.</text>
+      </revision>
+      <revision>
+        <text>An earlier [[revision]].</text>
+      </revision>
+  </page>
+  <page>
+    <title>Talk:Page title</title>
+      <revision>
+        <text>WHYD YOU LOCK PAGE??!!! i was editing that jerk</text>
+      </revision>
+   </page>
+ </mediawiki>
+
