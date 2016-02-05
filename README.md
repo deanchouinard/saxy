@@ -1,21 +1,6 @@
 # Saxy
 
-**TODO: Add description**
+Typed in code rom Benjamin Tan's XML parsing blog article:
 
-## Installation
+http://benjamintan.io/blog/2014/10/01/parsing-wikipedia-xml-dump-in-elixir-using-erlsom/
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
-  1. Add saxy to your list of dependencies in `mix.exs`:
-
-        def deps do
-          [{:saxy, "~> 0.0.1"}]
-        end
-
-  2. Ensure saxy is started before your application:
-
-        def application do
-          [applications: [:saxy]]
-        end
-
-# saxy
